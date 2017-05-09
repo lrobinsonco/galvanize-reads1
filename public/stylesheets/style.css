@@ -1,8 +1,32 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.navbar-brand {
+  padding-top: 7px;
 }
 
-a {
-  color: #00B7FF;
+.navbar-text {
+  font-size: 1.5em;
+}
+
+.navbar-brand img {
+  width: 45px;
+  height: 45px;
+}
+
+.sidebar {
+  padding-left: 15px;
+  padding-right: 5px;
+}
+
+.sidebar .affix-top {
+  /*position: static;*/
+  margin-top: 30px;
+  width: 179.844px;
+}
+
+.sidebar .affix {
+  top: 43px;
+  width: 179.844px;
+}
+
+.jumbotron a {
+  margin-top: 20px;
 }
